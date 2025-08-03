@@ -26,7 +26,7 @@ Various plots and charts were generated to explore:
 - Age distributions  
 - Correlations between features  
 - Differences between age ranges  
-<img width="866" height="702" alt="image" src="https://github.com/user-attachments/assets/762521cd-67cb-4553-b71d-3458108c24cb" />
+<img width="866" height="702" alt="Capture d'écran 2025-07-31 124101" src="https://github.com/user-attachments/assets/df0df3a8-b0bf-4ef3-bf72-d5ab851638d8" />
 
 ---
 
@@ -44,7 +44,7 @@ Applied both regression and classification algorithms, including:
 
 - Error margins and model performance metrics (e.g., RMSE, R²) were visualized and compared.  
 - Classification accuracy was assessed across age ranges.  
-<img width="643" height="706" alt="image" src="https://github.com/user-attachments/assets/903eb6d4-bebe-44ea-a223-33e8c012ad3c" />
+<img width="644" height="706" alt="Capture d'écran 2025-07-31 124246" src="https://github.com/user-attachments/assets/1a6db343-b636-4421-a9bf-ca07889ae1de" />
 
 ---
 
